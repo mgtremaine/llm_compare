@@ -36,7 +36,8 @@ Arguments
 -v, --verbose: Enable verbose output (optional).
 
 ## Example
-```python3 arena_prompt.py -p "What is the capital of France?" -c arena_config.json -v
+```
+python3 arena_prompt.py -p "What is the capital of France?" -c arena_config.json -v
 ```
 
 ## Configuration
